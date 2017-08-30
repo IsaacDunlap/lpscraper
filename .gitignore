@@ -113,3 +113,7 @@ fabric.properties
 # Project specific text files #
 ###############################
 goals.txt
+.idea/
+data/
+log/log.txt
+output.txt
